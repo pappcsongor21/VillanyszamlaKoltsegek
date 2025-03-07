@@ -4,7 +4,6 @@
 # Custom
 .vs
 .vs/*
-/BACKEND\VillanyszamlaKoltsegekBackend\.vs
 
 # User-specific files
 *.suo
