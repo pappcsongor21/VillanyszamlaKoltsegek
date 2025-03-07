@@ -1,6 +1,4 @@
-﻿using VillanyszamlaKoltsegekBackend.Model;
-
-namespace VillanyszamlaKoltsegekBackend
+﻿namespace VillanyszamlaKoltsegekBackend.Model
 {
     public class YearService
     {
@@ -9,8 +7,8 @@ namespace VillanyszamlaKoltsegekBackend
 
         public YearService(Year[] years, int pricePerUnit)
         {
-            this.Years = years;
-            this.PricePerUnit = pricePerUnit;
+            Years = years;
+            PricePerUnit = pricePerUnit;
         }
     }
 }

@@ -6,14 +6,14 @@
 //{
 //    [Route("/Year")]
 //    [ApiController]
-//    public class YearTableController : ControllerBase
+//    public class YearController : ControllerBase
 //    {
-//        public YearTableController() { }
+//        public YearController() { }
 
 //        [HttpGet]
 //        public IEnumerable<YearTable> GetYearTables()
 //        {
-//            return 
+//            return
 //        }
 
 //    }
