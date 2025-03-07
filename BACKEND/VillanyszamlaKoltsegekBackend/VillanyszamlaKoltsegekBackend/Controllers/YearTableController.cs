@@ -9,11 +9,11 @@
 //    public class YearTableController : ControllerBase
 //    {
 //        public YearTableController() { }
-        
+
 //        [HttpGet]
-//        public IEnumerable<Year> GetYears()
+//        public IEnumerable<YearTable> GetYearTables()
 //        {
-//            return
+//            return 
 //        }
 
 //    }
